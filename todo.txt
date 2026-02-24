@@ -1,0 +1,5 @@
+create a python backend using fastAPI
+create jason file
+update database directly using api key from local machine
+receive message through google keep
+store database in redis
