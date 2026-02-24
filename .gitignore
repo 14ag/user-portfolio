@@ -1,1 +1,4 @@
 .venv/
+experiments.ipynb
+launcher.bat
+auth/
